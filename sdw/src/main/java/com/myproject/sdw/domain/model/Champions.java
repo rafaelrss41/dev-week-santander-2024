@@ -8,8 +8,5 @@ public record Champions(
         String imageUrl
 
 ) {
-    public void teste(){
-        Champions champ;
-        champ = new Champions(1L,"","","","");
-    }
+
 }
